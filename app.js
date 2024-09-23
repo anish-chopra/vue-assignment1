@@ -3,7 +3,10 @@ const app = Vue.createApp({
     return {
       name: "Anish",
       age: 37,
-      missy: "https://www.imghippo.com/i/Plq1z1726723029.jpg",
+      missy:
+        "https://www.researchgate.net/publication/3935609/figure/fig1/AS:394647298953219@1471102656485/8-bit-256-x-256-Grayscale-Lena-Image.png",
+
+      inputText: "Anish is the best",
     };
   },
   methods: {
